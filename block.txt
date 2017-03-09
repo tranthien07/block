@@ -23,6 +23,7 @@ truyencv.com##.miencao.row
 truyencv.com###readstory > .chapter > .miencao:nth-of-type(2)
 truyencv.com##.miencao.av-right:nth-of-type(7)
 truyencv.com##.miencao.av-right:nth-of-type(9)
+truyencv.com##.miencao:nth-of-type(6)
 
 !https://www.facebook.com/
 www.facebook.com###rightCol
