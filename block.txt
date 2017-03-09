@@ -17,6 +17,8 @@ www.69shu.com##.adsbygoogle
 !http://truyencv.com/
 ||truyencv.com/images/bn/
 ||truyencv.com/$popup,third-party
+||ads.medi-8.net/yie/ld/ifk$subdocument
+truyencv.com###ads
 truyencv.com##.miencao
 truyencv.com##.miencao.row
 truyencv.com###readstory > .chapter > .miencao:nth-of-type(2)
