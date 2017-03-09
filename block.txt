@@ -19,10 +19,10 @@ www.69shu.com##.adsbygoogle
 ||truyencv.com/$popup,third-party
 truyencv.com##.miencao
 
-https://www.facebook.com/
+!https://www.facebook.com/
 www.facebook.com###rightCol
 
-http://thuviensoft.net/
+!http://thuviensoft.net/
 thuviensoft.net##.mainContent > center
 
 https://www.fshare.vn
