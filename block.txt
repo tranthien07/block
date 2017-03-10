@@ -32,7 +32,7 @@ www.facebook.com###rightCol
 !http://thuviensoft.net/
 thuviensoft.net##.mainContent > center
 
-https://www.fshare.vn
+!https://www.fshare.vn
 ||storage.fshare.vn/web/FBOX_02032017.gif$image
 www.fshare.vn###livechat_header > .clearfix
 www.fshare.vn##.fb-xfbml-parse-ignore
