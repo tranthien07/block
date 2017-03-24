@@ -21,14 +21,40 @@ www.69shu.com##.adsbygoogle
 truyencv.com###ads
 truyencv.com##.miencao
 truyencv.com##.miencao.row
+truyencv.com##.miencao.top
+truyencv.com##.miencao.av-bot
+truyencv.com##.miencao.av-mid
+truyencv.com##.miencao.av-top
+truyencv.com###readstory > .chapter > .miencao:nth-of-type(1)
 truyencv.com###readstory > .chapter > .miencao:nth-of-type(2)
+truyencv.com###readstory > .chapter > .miencao:nth-of-type(3)
+truyencv.com###readstory > .chapter > .miencao:nth-of-type(4)
+truyencv.com###readstory > .chapter > .miencao:nth-of-type(5)
+truyencv.com###readstory > .chapter > .miencao:nth-of-type(6)
+truyencv.com###readstory > .chapter > .miencao:nth-of-type(7)
+truyencv.com###readstory > .chapter > .miencao:nth-of-type(8)
+truyencv.com###readstory > .chapter > .miencao:nth-of-type(9)
+truyencv.com###readstory > .chapter > .miencao:nth-of-type(10)
+truyencv.com##.miencao.av-right:nth-of-type(1)
+truyencv.com##.miencao.av-right:nth-of-type(2)
+truyencv.com##.miencao.av-right:nth-of-type(3)
+truyencv.com##.miencao.av-right:nth-of-type(4)
+truyencv.com##.miencao.av-right:nth-of-type(5)
+truyencv.com##.miencao.av-right:nth-of-type(6)
 truyencv.com##.miencao.av-right:nth-of-type(7)
-truyencv.com##.miencao.av-right:nth-of-type(9)
-truyencv.com##.miencao:nth-of-type(6)
-truyencv.com##.miencao.av-right:nth-of-type(10) > div > div
 truyencv.com##.miencao.av-right:nth-of-type(8)
-truyencv.com##.miencao:nth-of-type(2) > div > div
-truyencv.com###taboola-below-mobile-article-thumbnails > .trc_rbox_container > div
+truyencv.com##.miencao.av-right:nth-of-type(9)
+truyencv.com##.miencao.av-right:nth-of-type(10)
+truyencv.com##.miencao:nth-of-type(1)
+truyencv.com##.miencao:nth-of-type(2)
+truyencv.com##.miencao:nth-of-type(3)
+truyencv.com##.miencao:nth-of-type(4)
+truyencv.com##.miencao:nth-of-type(5)
+truyencv.com##.miencao:nth-of-type(6)
+truyencv.com##.miencao:nth-of-type(7)
+truyencv.com##.miencao:nth-of-type(8)
+truyencv.com##.miencao:nth-of-type(9)
+truyencv.com##.miencao:nth-of-type(10)
 
 !https://www.facebook.com/
 www.facebook.com###rightCol
