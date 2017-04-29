@@ -15,9 +15,14 @@ talktv.vn##.in.fade.modal-backdrop
 www.69shu.com##.adsbygoogle
 
 !http://truyencv.com/
+||ads.medi-8.net
 truyencv.com###ads
+truyencv.com##ads
+truyencv.com##center
 truyencv.com##.miencao
 truyencv.com##.miencao.row
+truyencv.com##.miencao.bot
+truyencv.com##.miencao.mid
 truyencv.com##.miencao.top
 truyencv.com##.miencao.av-bot
 truyencv.com##.miencao.av-mid
@@ -54,6 +59,8 @@ truyencv.com##.miencao:nth-of-type(9)
 truyencv.com##.miencao:nth-of-type(10)
 ||truyencv.com/js/global.js
 ||truyencv.com/js/license.2.js
+truyencv.com/js/global.js
+truyencv.com/js/license.2.js
 
 !https://www.facebook.com/
 www.facebook.com###rightCol
