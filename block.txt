@@ -52,6 +52,8 @@ truyencv.com##.miencao:nth-of-type(7)
 truyencv.com##.miencao:nth-of-type(8)
 truyencv.com##.miencao:nth-of-type(9)
 truyencv.com##.miencao:nth-of-type(10)
+||truyencv.com/js/global.js
+||truyencv.com/js/license.2.js
 
 !https://www.facebook.com/
 www.facebook.com###rightCol
