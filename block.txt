@@ -64,6 +64,8 @@ truyencv.com/js/license.2.js
 jwpcdn.com
 taboola.com
 admicro.vn
+adrta.com
+criteo.com
 cloudfront.net
 scorecardresearch.com
 google-analytics.com/analytics.js
@@ -75,7 +77,7 @@ _300x250.
 =300x250&
 /beacon/ads?
 doubleverify.com
-
+amazonaws.com
 
 
 
