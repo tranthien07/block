@@ -61,6 +61,24 @@ truyencv.com##.miencao:nth-of-type(10)
 ||truyencv.com/js/license.2.js
 truyencv.com/js/global.js
 truyencv.com/js/license.2.js
+jwpcdn.com
+taboola.com
+admicro.vn
+cloudfront.net
+scorecardresearch.com
+google-analytics.com/analytics.js
+genieesspv.jp
+genieessp.com
+yomedia.vn
+ad-stir.com
+_300x250.
+=300x250&
+/beacon/ads?
+doubleverify.com
+
+
+
+
 
 !https://www.facebook.com/
 www.facebook.com###rightCol
