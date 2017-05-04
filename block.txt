@@ -80,11 +80,6 @@ doubleverify.com
 amazonaws.com
 
 
-
-
-!https://www.facebook.com/
-www.facebook.com###rightCol
-
 !http://thuviensoft.net/
 thuviensoft.net##.mainContent > center
 
