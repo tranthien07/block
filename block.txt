@@ -97,11 +97,6 @@ www.fshare.vn##.ban-ev-bot-foot
 .com/cpc/$script
 .net/cpf/$script
 .uniad.
-/120x240.
-/120x60.
-/24h-ad.
-/468-x-60-
-/600x60_
 /banner/*.gif|*.swf
 /banner-ads.
 /fuckadblock.$script
@@ -115,6 +110,3 @@ www.fshare.vn##.ban-ev-bot-foot
 /uts.js
 /vast.js
 /vast.xml$third-party,domain=vuighe.net
-_690x110.
-_800x105.
-_990x100.
